@@ -1,16 +1,25 @@
-## Hi there 👋
+# Sheikh Khalif
 
-<!--
-**KHALIF09/KHALIF09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML and Python developer focused on building intelligent systems, LLM applications, and practical data-driven solutions.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- LLMs / Generative AI
+- RAG / LangChain
+- Data Analysis
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- gfg_rag_langchain
+- churn-prediction
+- expense-anomaly-detector
+- bank-management-system
+- MRILS-By-Khalif-and-Adeeb
+
+## Connect
+- GitHub: https://github.com/KHALIF09
+- LinkedIn: https://linkedin.com/in/sheikh-khalif
+
+## About
+I enjoy building AI-powered applications that solve real-world problems and turn ideas into working products.
